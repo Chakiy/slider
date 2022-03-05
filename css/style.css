@@ -45,7 +45,7 @@
 }
 
 img {
-  transition: all 1000ms ease-in-out;
+  transition: margin-left 1000ms ease-in-out;
 }
 
 .prev {
